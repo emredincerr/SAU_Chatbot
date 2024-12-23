@@ -1,0 +1,1505 @@
+Course Code: IKY 282
+Course Name: Human Resource Management
+Course Objective: It is aimed to teach the theory of HRM functions at a sufficient level and to make the students gain the necessary information and ability to practice HRM functions.
+Course Content: In this course the framework of human resource management and the HR functions like job analysis, HR planning, HR recruitment and selection, HR training and development will be discussed.
+
+
+Course Code: YBS 254
+Course Name: Logistics and Supply Chain Management
+Course Objective: Introducing fundamentals and functions of logistics, training students for the skills of implementing the necessary practices.
+Course Content: Basics of Logistics, Types of Logistics practices and techniques used commonly in logistics.
+
+
+Course Code: YBS 256
+Course Name: Python 
+Course Objective: Giving general information about Python
+Course Content: To use interface for Python, to develop simple applications with Python, to have beginner level knowledge about IOT applications
+
+
+Course Code: YBS 258
+Course Name: Industry 4.0 and Change Management
+Course Objective: This course aims to introduce students to the principles of Industry 4.0, focusing on the integration of advanced technologies such as IoT, AI, and Big Data into industrial processes. It also equips students with essential change management skills to help organizations adapt effectively to technological transformation and overcome resistance during digitalization.
+Course Content: The course covers the fundamentals of Industry 4.0, including smart manufacturing, digital transformation, and emerging technologies. Students will explore change management frameworks, strategies to handle organizational resistance, and real-world case studies that demonstrate successful Industry 4.0 implementations.
+
+
+Course Code: YBS 260
+Course Name: Knowledge Management
+Course Objective: This course aims to teach students how to effectively capture, organize, and share organizational knowledge to foster innovation, improve decision-making, and enhance competitive advantage.
+Course Content: The course covers knowledge management concepts, strategies, and frameworks, including knowledge creation, sharing, and storage. It explores tools and technologies for knowledge systems, intellectual capital management, and case studies of successful implementations in organizations.
+
+
+Course Code: YBS 262
+Course Name: Web Mining
+Course Objective: The objective of this course is to provide students with the skills to extract, analyze, and interpret valuable information from web data to support decision-making and research.
+Course Content: This course includes web content mining, web structure mining, and web usage mining. Students will explore techniques such as data scraping, pattern analysis, and text mining, focusing on tools and applications for web-based data analysis.
+
+
+Course Code: YBS 212
+Course Name: Consumer Law
+Course Objective: This course aims to provide students with an understanding of the legal principles and regulations designed to protect consumers and ensure fair business practices.
+Course Content: The course covers consumer rights, consumer protection laws, product liability, contracts, and dispute resolution processes. It examines real-world cases, legal frameworks, and the role of regulatory bodies in consumer protection.
+
+
+Course Code: YBS 264
+Course Name: Graphics and Animation
+Course Objective: The objective of this course is to equip students with the foundational skills to create visual content and animations for multimedia projects, combining creativity with technical proficiency.
+Course Content: This course covers graphic design principles, 2D and 3D animation techniques, visual storytelling, and software tools for graphics and animation. Students will gain hands-on experience in designing and animating digital content for various platforms.
+
+
+Course Code: YBS 356
+Course Name: Visual Programming
+Course Objective: To introduce students to the concepts and tools of visual programming, enabling them to develop applications using graphical interfaces.
+Course Content: The course covers visual programming languages, event-driven programming, GUI design, and creating interactive applications using visual development environments.
+
+
+Course Code: YBS 358
+Course Name: Internet Programming Languages
+Course Objective: This course has an emphasis on the design and techniques for developing internet-based applications, mainly focusing on web programming
+Course Content: This course will also cover some important topics needed for internet-based application developments, such as Internet architectures and web security. Course work includes substantial programming homework and team-based projects.
+
+
+Course Code: YBS 362
+Course Name: E-Commerce
+Course Objective: The class is aimed to provide information on basic concepts on ebusiness, new economic and business models and variety of dimensions of electronic business. In addition, the class is aimed to provide fast growing opportunities of ebusiness, forces shaping organizational structures and strategies, important impacts of ebusiness on different industries and overall market dynamics, history of ebusiness, mistakes done in the first implementations of ebusiness and today?s utilization of ebusiness.
+Course Content: Besides classical formation of organizations as centeral offices, headquarters and branches, virtual organizations that have any offices and headquarters, their functions and characteristics are the main topics of this class. The class especially investigates different types of ebusiness as company to company, company to business, customer to customer, managerial and technic aspects of these organizations and interactions, different types of ebusinesses, and future importance of these organizations will be discussed. Technically speaking students will learn system analysis and design, database and telecommunication interaction, organizational science and ways and methods to enhance ebusiness concepts.
+
+
+Course Code: YBS 350
+Course Name: Human Computer Interaction
+Course Objective: Human-computer interaction focuses on the design, development and implementation of interactive technologies. It is aimed to provide the necessary knowledge and skills to design and develop human-centered information systems, to make technology easier to use and to improve interaction.
+Course Content: Human Computer Interaction Discipline (The concept of human computer interaction, its importance, main components, developments in the world, usability engineering), Different Perspectives on Interaction (Norman's 7-level approach, design principles, effects of 7 level approach on design), Case Studies (Bad designs and results), Large Scale Safety-Critical Systems (Embedded systems, Intelligent Systems, Real-time systems, features of Large-scale embedded intelligent real-time systems, and interaction with these systems), Human Computer Interaction and Cognitive Process (cognitive mechanism of human and human computer interaction, information processing model, perception system, decision-making, mental models), Human-centered design (Gestalt theory, principles and application), Usability and Usability Engineering (What is Usability, its main components), Interface Design (Interface evaluation criteria, basic principles of design, heuristic control tools), Usability tests (test approach types, advantages / disadvantages of approaches, usability test designs), Current Issues in Human Computer Interaction (Human Robot Interaction, Artificial Intelligence, Developments in different sectors)
+
+
+Course Code: YBS 360
+Course Name: Human Resources Information Systems
+Course Objective: The class will support Human resources Information Systems planning, design and implementation processes. The class also contribute to design more flexible, efficient and sufficient Human Resources Information Systems. Technical and functional aspects of existing Human Resources Information Systems will be investigated and in business enviornments the utilization of such technologies will be investigated. The strong and weak sides of existing Human Resources Information Sytems will be discussed. Students will be knowledgeable on bfundamental technologies, methods, resources and criteria in the process of implementing Human Resources ınformation Systems for existing requirements of human resources function.
+Course Content: To acquire knowledge on human resources function, human resources information systems, technologies for human resources information systems, acquiring the systems, technologies for human resources information systems, human resources databases, purchasing the systems or development of the systems in house, get insights of job analysis, human resources analysis, international dimensions of human resources management, future expectations and insight of human resources information systems
+
+
+Course Code: YBS 364
+Course Name: Quantitative Data Analysis
+Course Objective: To learn science, hypothesis, theory concepts and quantitative anlysis techniques, work with survey instrument, transfer the data to SPSS environemnt, run variety of analysis and evaluate them
+Course Content: The course covers statistical techniques for analyzing quantitative data, including descriptive statistics, probability theory, hypothesis testing, regression analysis, and analysis of variance (ANOVA). Students will also learn about data visualization, sampling methods, and using software tools like Excel, SPSS, or R for data analysis. Practical applications of quantitative methods in various fields such as business, healthcare, and social sciences will be explored.
+
+
+Course Code: YBS 366
+Course Name: Mobile Programming
+Course Objective: To introduce mobile devices, mobile operating systems and platforms, and to teach how to develop applications for mobile devices.
+Course Content: Mobile devices, mobile platforms, mobile OSs, application development platforms for mobile devices, designing user interfaces for mobile devices, data storing methods on mobile devices, services used on mobile devices.
+
+
+Course Code: YBS 354
+Course Name: Datamining and Business Intelligence
+Course Objective: Ensuring the students to comprehend the disciplines related to business intelligence cocenptually and to learn the fundamental concepts and techniques of business intelligence as well as its business applications
+Course Content: In the course, an introduction will be made in the field of business intelligence and after the introduction, information about data mining and the technological infrastructure of business intelligence (Data concept and Data warehouses) will be presented. Afterwards, data mining will be discussed and information about data mining methods will be presented. These methods will be evaluated practically with EXCEL and/or SPSS Modeller programs. In the last part of the course, Normative business intelligence approaches and Visual analytics will be discussed. Applications on these subjects will be carried out with the Tableau software. The course will be completed by giving general information about business intelligence and data mining trends and Big Data analytics.
+
+
+Course Code: YBS 352
+Course Name: Electronic Trade Law
+Course Objective: This course aims to explain the student's electronic commerce law and principles. This context is to learn especially electronic contracts, their establishment, responsibilities, and risks in the internet environment. With the development of electronic life, it is aimed to have general information about electronic contracts, which are frequently encountered, and the legal liability of internet service providers. In this direction, it is desired to follow the developments in Turkish Law and International Law closely.
+Course Content: Electronic commercial law and principles are examined in this course. In this context, various areas of law related to electronic commerce are discussed in the lessons.
+
+
+Course Code: YBS 370
+Course Name: Artificial Intelligence: Theories and Applications
+Course Objective: To provide an in-depth understanding of AI theories, algorithms, and their practical applications in various fields.
+Course Content: Topics include machine learning, neural networks, expert systems, natural language processing, and AI applications in industries like healthcare, finance, and robotics.
+
+
+Course Code: YBS 372
+Course Name: Cyber Security
+Course Objective: To equip students with knowledge and skills to protect information systems against cyber threats.
+Course Content: The course covers cybersecurity fundamentals, risk management, encryption, network security, and countermeasures against hacking and malware.
+
+
+Course Code: YBS 368
+Course Name: It Audit
+Course Objective: To teach students the techniques for auditing IT systems and evaluating their effectiveness, security, and compliance.
+Course Content: The course covers auditing standards, risk assessment, IT governance, control frameworks, and the process of conducting IT audits in organizations.
+
+
+Course Code: MTH 302
+Course Name: Basics Of Object-Oriented Programming With C#
+Course Objective: To introduce students to object-oriented programming (OOP) concepts using C#, focusing on the creation of efficient and maintainable software.
+Course Content: Students will learn C# programming fundamentals, classes, objects, inheritance, polymorphism, and encapsulation in the context of OOP.
+
+
+Course Code: YBS 401
+Course Name: Management Of It Projects
+Course Objective: The role of projects in organizations is receiving increasing attention. Projects are the major tool for implementing and achieving the strategic goals of the organization In this course, students will identify effective information systems project management practices and their related processes. They will examine the elements of sound project management and the project management framework of initiation, planning, execution, control, and formal closing, and discover what it takes to ensure project success. Also, students will use the Microsoft Project program and prepare project shedules or cost schedules throughout the course.
+Course Content: In this course Project Management Fundamentals, Basic Terms, Project Management Knowledge Areas (Integration Management, Scope Management, Time Management, Cost Management, Quality Management, Human Resources Management, Communication Management and Purchase Management) and Project Management Process Groups (initiation, planning, execution, control, and formal closing) will be discussed.
+
+
+Course Code: YBS 411
+Course Name: Seminars In Mis
+Course Objective: To provide students with a platform for exploring current topics and research in Management Information Systems (MIS) through presentations and discussions.
+Course Content: The course includes seminars on emerging trends, case studies, and research topics in MIS, encouraging critical thinking and discussion on technology’s role in business.
+
+
+Course Code: YBS 413
+Course Name: Artificial Intelligence
+Course Objective: It is aimed to help students have an idea about basic techniques and mechanisms of artifical intelligence. Those who have taken this course will be able to understand the conceptual and historical development of AI, the aims of AI and the methods to achieve them, and to analyse the problems using AI techniques and know exactly where to implement these techniques with a high-skill.
+Course Content: Intelligence, artificial intelligence concept, information, learning, inference, searching methods of AI, information based systems, engineering applications for AI.
+
+
+Course Code: ISL 481
+Course Name: Procurement Management
+Course Objective: To equip students with the skills and knowledge needed to effectively manage procurement processes, ensuring cost-efficiency and quality in supply chain operations.
+Course Content: The course includes procurement planning, supplier selection, contract management, procurement strategies, risk management, and global procurement trends and challenges.
+
+
+Course Code: YBS 253
+Course Name: Excel Vba Programming
+Course Objective: Gaining writing and reporting small-scale projects for businesses using excel vba applications
+Course Content: Macros,userforms and model implementations.
+
+
+Course Code: YBS 213
+Course Name: Health Information Systems
+Course Objective: The use of Information Technology in the healthcare sector is increasingly growing today. Information Technology is seen as a tool to reduce costs and improve quality in the healthcare sector. Critical and significant issues related to the implementation, evaluation, and management of Information Technology in healthcare will be discussed in this course.
+Course Content: Internal and external health data, clinical and administrative health data, problems caused by low data quality, and ways to improve data quality in the healthcare sector; legal and regulatory frameworks and authorities in the healthcare sector; the history of health information systems; current and emerging applications of clinical information systems; processes for acquiring, implementing, and supporting systems; supportive technologies in the healthcare sector; standards for health information systems; and the security of health information systems.
+
+
+Course Code: YBS 427
+Course Name: Social Media
+Course Objective: To explore the role of social media in modern communication, business, and marketing strategies.
+Course Content: Topics include social media platforms, content creation, digital branding, audience engagement, analytics, and the impact of social media on society and businesses.
+
+
+Course Code: YBS 217
+Course Name: E-Government and Digital Transformation
+Course Objective: To study the principles of e-government and how digital transformation enhances public services and governance.
+Course Content: The course covers e-government models, digital service delivery, digitalization of public administration, and challenges in implementing digital transformation in the public sector.
+
+
+Course Code: ISL 443
+Course Name: Financial Management
+Course Objective: To provide students with the knowledge to make informed financial decisions in business and organizations.
+Course Content: Topics include financial planning, budgeting, capital investment, financial analysis, and the management of financial risks in businesses.
+
+
+Course Code: YBS 425
+Course Name: Business Analytics Applications
+Course Objective: To support our students to become data analysts by demonstrating business analytics methods to students in practice.
+Course Content: In the course content, data preprocessing and comprehension applications will be shown to the students first, and then data, text and social media mining applications will be made with the help of various programs and software. In the last part of the course, business intelligence and data visualization will be discussed.
+
+
+Course Code: YBS 431
+Course Name: Technology and Inavation Management
+Course Objective: To provide students with an understanding of how to manage technological and innovative processes within organizations to gain competitive advantages and drive growth.
+Course Content: The course covers innovation strategies, the technology life cycle, R&D management, technology adoption, intellectual property, and the impact of emerging technologies on business practices.
+
+
+Course Code: ISF 423
+Course Name: Advanced Office Applications
+Course Objective: To develop office applications that can be useful in student life and in business life after student life.
+Course Content: Internet, word processor, presentation tools, spreadsheets, data processing tools, data visualization tools applications.
+
+
+Course Code: YBS 421
+Course Name: Machine Learning
+Course Objective: To provide the student with the ability to design, implement and present an informatics project by using up-to-date software technologies.
+Course Content: DBMS concept, SQL, MSSQL interface, Database Design, windows form design with .NET Framework, web form, MVC, eclipse interface, android application development, project publishing and presentation
+
+
+Course Code: YBS 435
+Course Name: Digital Marketing & Digital Transformation & Metaverse
+Course Objective: To explore digital marketing strategies, the impact of digital transformation, and the role of the Metaverse in business and consumer interaction.
+Course Content: The course covers digital marketing techniques, e-commerce, the integration of digital transformation in business strategies, and the evolving Metaverse landscape in marketing.
+
+
+Course Code: YBS 441
+Course Name: Web Data Analysis With Python
+Course Objective: To teach students how to collect, analyze, and visualize data from websites using Python
+Course Content: Topics include web scraping, data cleaning, data visualization techniques, and using Python libraries like BeautifulSoup, Pandas, and Matplotlib for web data analysis.
+
+
+Course Code: EBB 403
+Course Name: Teaching Practice
+Course Objective: To provide students with practical teaching experience and skills necessary for effective educational delivery.
+Course Content: The course includes hands-on teaching experience, lesson planning, classroom management, student engagement strategies, and assessment techniques.
+
+Course Code: MTA 101
+Course Name: Big Data Technologies
+Course Objective: To provide an understanding of the principles and tools used in Big Data systems, including data storage, processing, and analysis.
+Course Content: Introduction to Big Data, Hadoop ecosystem, Spark framework, NoSQL databases, data visualization tools, and real-world applications of Big Data.
+
+Course Code: MTA 104
+Course Name: Blockchain Technology and Applications
+Course Objective: To explore the fundamental concepts of blockchain technology and its applications in various industries.
+Course Content: Basics of blockchain, consensus algorithms, smart contracts, cryptocurrencies, blockchain platforms, and real-world use cases.
+
+Course Code: SAU 502
+Course Name: Information and Communication Technologies
+Course Objective: To introduce modern information and communication technologies and their impact on business and society.
+Course Content: ICT fundamentals, digital communication systems, network technologies, cybersecurity, and emerging ICT trends.
+
+Course Code: SAU 354
+Course Name: Web Design
+Course Objective: To teach students the principles and techniques of designing and developing modern websites.
+Course Content: HTML, CSS, JavaScript basics, responsive design, UX/UI principles, and tools for web development.
+
+Course Code: SAU 025
+Course Name: Mobile Application Development
+Course Objective: To provide skills in designing, developing, and deploying mobile applications.
+Course Content: Introduction to mobile platforms, Android/iOS development, user interface design, and integrating APIs in mobile apps.
+
+Course Code: SAU 501
+Course Name: Web Technologies
+Course Objective: To provide an in-depth understanding of web technologies, including its principles, applications, and industry relevance.
+Course Content: Overview of web technologies, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 353
+Course Name: Visual Programming
+Course Objective: To provide an in-depth understanding of visual programming, including its principles, applications, and industry relevance.
+Course Content: Overview of visual programming, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 033
+Course Name: E-Government Applications
+Course Objective: To provide an in-depth understanding of e-government applications, including its principles, applications, and industry relevance.
+Course Content: Overview of e-government applications, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 903
+Course Name: Drama
+Course Objective: To provide an in-depth understanding of drama, including its principles, applications, and industry relevance.
+Course Content: Overview of drama, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 905
+Course Name: Traditional and Alternative Medicine
+Course Objective: To provide an in-depth understanding of traditional and alternative medicine, including its principles, applications, and industry relevance.
+Course Content: Overview of traditional and alternative medicine, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 901
+Course Name: Graphic and Design
+Course Objective: To provide an in-depth understanding of graphic and design, including its principles, applications, and industry relevance.
+Course Content: Overview of graphic and design, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 902
+Course Name: Medical English-II
+Course Objective: To provide an in-depth understanding of medical english-ii, including its principles, applications, and industry relevance.
+Course Content: Overview of medical english-ii, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 904
+Course Name: Scintific Writind and Reading In Medicine
+Course Objective: To provide an in-depth understanding of scintific writind and reading in medicine, including its principles, applications, and industry relevance.
+Course Content: Overview of scintific writind and reading in medicine, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 906
+Course Name: Animal Use In Scientific Studies
+Course Objective: To provide an in-depth understanding of animal use in scientific studies, including its principles, applications, and industry relevance.
+Course Content: Overview of animal use in scientific studies, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 908
+Course Name: Effective Presentation Techniques
+Course Objective: To provide an in-depth understanding of effective presentation techniques, including its principles, applications, and industry relevance.
+Course Content: Overview of effective presentation techniques, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 907
+Course Name: Halal and Healthy Life
+Course Objective: To provide an in-depth understanding of halal and healthy life, including its principles, applications, and industry relevance.
+Course Content: Overview of halal and healthy life, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 503
+Course Name: Informatics In Automotive (Sector Oriented)
+Course Objective: To provide an in-depth understanding of informatics in automotive (sector oriented), including its principles, applications, and industry relevance.
+Course Content: Overview of informatics in automotive (sector oriented), practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 909
+Course Name: Data Science
+Course Objective: To provide an in-depth understanding of data science, including its principles, applications, and industry relevance.
+Course Content: Overview of data science, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 910
+Course Name: Medical Work Areas
+Course Objective: To provide an in-depth understanding of medical work areas, including its principles, applications, and industry relevance.
+Course Content: Overview of medical work areas, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 586
+Course Name: Web Technologies
+Course Objective: To provide an in-depth understanding of web technologies, including its principles, applications, and industry relevance.
+Course Content: Overview of web technologies, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 699
+Course Name: Web Technologies
+Course Objective: To provide an in-depth understanding of web technologies, including its principles, applications, and industry relevance.
+Course Content: Overview of web technologies, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 920
+Course Name: Occupational Medicine
+Course Objective: To provide an in-depth understanding of occupational medicine, including its principles, applications, and industry relevance.
+Course Content: Overview of occupational medicine, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 800
+Course Name: Web Programming with Java (Sector Course)
+Course Objective: To provide an in-depth understanding of Web Programming with Java (Sector Course), including its principles, applications, and industry relevance.
+Course Content: Overview of Web Programming with Java (Sector Course), practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 112
+Course Name: Artificial Intelligence and Productivity
+Course Objective: To provide an in-depth understanding of artificial intelligence and productivity, including its principles, applications, and industry relevance.
+Course Content: Overview of artificial intelligence and productivity, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 512
+Course Name: Career Planning
+Course Objective: To provide an in-depth understanding of career planning, including its principles, applications, and industry relevance.
+Course Content: Overview of career planning, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: EBB 206
+Course Name: Education Psychology
+Course Objective: To provide an in-depth understanding of education psychology, including its principles, applications, and industry relevance.
+Course Content: Overview of education psychology, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: EBB 205
+Course Name: Introduction To Education
+Course Objective: To provide an in-depth understanding of introduction to education, including its principles, applications, and industry relevance.
+Course Content: Overview of introduction to education, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: EBB 406
+Course Name: Special Teaching Methods
+Course Objective: To provide an in-depth understanding of special teaching methods, including its principles, applications, and industry relevance.
+Course Content: Overview of special teaching methods, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: EBB 303
+Course Name: Classroom Management
+Course Objective: To provide an in-depth understanding of classroom management, including its principles, applications, and industry relevance.
+Course Content: Overview of classroom management, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: EBB 302
+Course Name: Teaching Principles and Methods
+Course Objective: To provide an in-depth understanding of teaching principles and methods, including its principles, applications, and industry relevance.
+Course Content: Overview of teaching principles and methods, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: EBB 304
+Course Name: Assessment and Evaluation In Education
+Course Objective: To provide an in-depth understanding of assessment and evaluation in education, including its principles, applications, and industry relevance.
+Course Content: Overview of assessment and evaluation in education, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: EBB 403
+Course Name: Guidance and Special Education
+Course Objective: To provide an in-depth understanding of guidance and special education, including its principles, applications, and industry relevance.
+Course Content: Overview of guidance and special education, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: EBB 401
+Course Name: Teaching Technologies
+Course Objective: To provide an in-depth understanding of teaching technologies, including its principles, applications, and industry relevance.
+Course Content: Overview of teaching technologies, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 071
+Course Name: Official Correspondence Form According To European Standards
+Course Objective: To provide an in-depth understanding of official correspondence form according to european standards, including its principles, applications, and industry relevance.
+Course Content: Overview of official correspondence form according to european standards, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 061
+Course Name: History Of European
+Course Objective: To provide an in-depth understanding of history of european, including its principles, applications, and industry relevance.
+Course Content: Overview of history of european, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 001
+Course Name: History and Philosophy Of Science
+Course Objective: To provide an in-depth understanding of history and philosophy of science, including its principles, applications, and industry relevance.
+Course Content: Overview of history and philosophy of science, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 073
+Course Name: Scientific Research Methods
+Course Objective: To provide an in-depth understanding of scientific research methods, including its principles, applications, and industry relevance.
+Course Content: Overview of scientific research methods, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 063
+Course Name: History Of Armenian Question
+Course Objective: To provide an in-depth understanding of history of armenian question, including its principles, applications, and industry relevance.
+Course Content: Overview of history of armenian question, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 072
+Course Name: Effective Speech
+Course Objective: To provide an in-depth understanding of effective speech, including its principles, applications, and industry relevance.
+Course Content: Overview of effective speech, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 054
+Course Name: Philosophical Thinking
+Course Objective: To provide an in-depth understanding of philosophical thinking, including its principles, applications, and industry relevance.
+Course Content: Overview of philosophical thinking, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 077
+Course Name: Physics and Philosophy
+Course Objective: To provide an in-depth understanding of physics and philosophy, including its principles, applications, and industry relevance.
+Course Content: Overview of physics and philosophy, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 068
+Course Name: Social Effects Of Gene Technology
+Course Objective: To provide an in-depth understanding of social effects of gene technology, including its principles, applications, and industry relevance.
+Course Content: Overview of social effects of gene technology, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 076
+Course Name: Quantum Physics Lives
+Course Objective: To provide an in-depth understanding of quantum physics lives, including its principles, applications, and industry relevance.
+Course Content: Overview of quantum physics lives, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 056
+Course Name: Humic Acid and Applications
+Course Objective: To provide an in-depth understanding of humic acid and applications, including its principles, applications, and industry relevance.
+Course Content: Overview of humic acid and applications, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 051
+Course Name: Geography Of Administrative
+Course Objective: To provide an in-depth understanding of geography of administrative, including its principles, applications, and industry relevance.
+Course Content: Overview of geography of administrative, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 060
+Course Name: Advenced Ottoman Turkish
+Course Objective: To provide an in-depth understanding of advenced ottoman turkish, including its principles, applications, and industry relevance.
+Course Content: Overview of advenced ottoman turkish, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 066
+Course Name: History Of Islamic Thought
+Course Objective: To provide an in-depth understanding of history of islamic thought, including its principles, applications, and industry relevance.
+Course Content: Overview of history of islamic thought, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 069
+Course Name: Bird Watching and Photography
+Course Objective: To provide an in-depth understanding of bird watching and photography, including its principles, applications, and industry relevance.
+Course Content: Overview of bird watching and photography, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 075
+Course Name: Mathematics and Art
+Course Objective: To provide an in-depth understanding of mathematics and art, including its principles, applications, and industry relevance.
+Course Content: Overview of mathematics and art, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 057
+Course Name: The Formation Of Modern Türkiye
+Course Objective: To provide an in-depth understanding of the formation of modern türkiye, including its principles, applications, and industry relevance.
+Course Content: Overview of the formation of modern türkiye, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 064
+Course Name: Comparative History Of The World
+Course Objective: To provide an in-depth understanding of comparative history of the world, including its principles, applications, and industry relevance.
+Course Content: Overview of comparative history of the world, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 065
+Course Name: Ottoman Civilization
+Course Objective: To provide an in-depth understanding of ottoman civilization, including its principles, applications, and industry relevance.
+Course Content: Overview of ottoman civilization, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 059
+Course Name: Basic Ottoman Turkish
+Course Objective: To provide an in-depth understanding of basic ottoman turkish, including its principles, applications, and industry relevance.
+Course Content: Overview of basic ottoman turkish, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 052
+Course Name: Medical Geography
+Course Objective: To provide an in-depth understanding of medical geography, including its principles, applications, and industry relevance.
+Course Content: Overview of medical geography, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 362
+Course Name: Medical Translation
+Course Objective: To provide an in-depth understanding of medical translation, including its principles, applications, and industry relevance.
+Course Content: Overview of medical translation, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 067
+Course Name: History Of Turkish Democracy
+Course Objective: To provide an in-depth understanding of history of turkish democracy, including its principles, applications, and industry relevance.
+Course Content: Overview of history of turkish democracy, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 055
+Course Name: Turkish Chemical Industry For Entrepreneurship
+Course Objective: To provide an in-depth understanding of turkish chemical industry for entrepreneurship, including its principles, applications, and industry relevance.
+Course Content: Overview of turkish chemical industry for entrepreneurship, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: ING 101
+Course Name: English 1
+Course Objective: To provide an in-depth understanding of english 1, including its principles, applications, and industry relevance.
+Course Content: Overview of english 1, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: ING 102
+Course Name: English 2
+Course Objective: To provide an in-depth understanding of english 2, including its principles, applications, and industry relevance.
+Course Content: Overview of english 2, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: ING 103
+Course Name: English 2
+Course Objective: To provide an in-depth understanding of english 2, including its principles, applications, and industry relevance.
+Course Content: Overview of english 2, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: MTA 105
+Course Name: Introduction To Ai
+Course Objective: To provide an in-depth understanding of introduction to ai, including its principles, applications, and industry relevance.
+Course Content: Overview of introduction to ai, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 555
+Course Name: Strait Management
+Course Objective: To provide an in-depth understanding of strait management, including its principles, applications, and industry relevance.
+Course Content: Overview of strait management, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 554
+Course Name: Industrial Marketing
+Course Objective: To provide an in-depth understanding of industrial marketing, including its principles, applications, and industry relevance.
+Course Content: Overview of industrial marketing, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 701
+Course Name: Effective Communication and Body Language
+Course Objective: To provide an in-depth understanding of effective communication and body language, including its principles, applications, and industry relevance.
+Course Content: Overview of effective communication and body language, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 601
+Course Name: Basic Concepts Of Law
+Course Objective: To provide an in-depth understanding of basic concepts of law, including its principles, applications, and industry relevance.
+Course Content: Overview of basic concepts of law, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 602
+Course Name: Human Rights Law
+Course Objective: To provide an in-depth understanding of human rights law, including its principles, applications, and industry relevance.
+Course Content: Overview of human rights law, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 551
+Course Name: Business Administration
+Course Objective: To provide an in-depth understanding of business administration, including its principles, applications, and industry relevance.
+Course Content: Overview of business administration, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 556
+Course Name: Methods Of Personal Success
+Course Objective: To provide an in-depth understanding of methods of personal success, including its principles, applications, and industry relevance.
+Course Content: Overview of methods of personal success, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 557
+Course Name: Analytical Critical Thinking Skills
+Course Objective: To provide an in-depth understanding of analytical critical thinking skills, including its principles, applications, and industry relevance.
+Course Content: Overview of analytical critical thinking skills, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 604
+Course Name: Turkish Administrative Structure
+Course Objective: To provide an in-depth understanding of turkish administrative structure, including its principles, applications, and industry relevance.
+Course Content: Overview of turkish administrative structure, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 706
+Course Name: New Media
+Course Objective: To provide an in-depth understanding of new media, including its principles, applications, and industry relevance.
+Course Content: Overview of new media, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 014
+Course Name: Introduction To Behaviour Science
+Course Objective: To provide an in-depth understanding of introduction to behaviour science, including its principles, applications, and industry relevance.
+Course Content: Overview of introduction to behaviour science, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 024
+Course Name: It Law
+Course Objective: To provide an in-depth understanding of it law, including its principles, applications, and industry relevance.
+Course Content: Overview of it law, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 751
+Course Name: Financial Literacy
+Course Objective: To provide an in-depth understanding of financial literacy, including its principles, applications, and industry relevance.
+Course Content: Overview of financial literacy, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 563
+Course Name: Consumer Rights and Consumer Protection
+Course Objective: To provide an in-depth understanding of consumer rights and consumer protection, including its principles, applications, and industry relevance.
+Course Content: Overview of consumer rights and consumer protection, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 562
+Course Name: Technology Management and R&D
+Course Objective: To provide an in-depth understanding of technology management and r&d, including its principles, applications, and industry relevance.
+Course Content: Overview of technology management and r&d, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 561
+Course Name: New Service Design
+Course Objective: To provide an in-depth understanding of new service design, including its principles, applications, and industry relevance.
+Course Content: Overview of new service design, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 560
+Course Name: Brand Management
+Course Objective: To provide an in-depth understanding of brand management, including its principles, applications, and industry relevance.
+Course Content: Overview of brand management, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 707
+Course Name: Communication Skills
+Course Objective: To provide an in-depth understanding of communication skills, including its principles, applications, and industry relevance.
+Course Content: Overview of communication skills, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 603
+Course Name: Business Law
+Course Objective: To provide an in-depth understanding of business law, including its principles, applications, and industry relevance.
+Course Content: Overview of business law, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 564
+Course Name: Work and Society
+Course Objective: To provide an in-depth understanding of work and society, including its principles, applications, and industry relevance.
+Course Content: Overview of work and society, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 565
+Course Name: Personal Development
+Course Objective: To provide an in-depth understanding of personal development, including its principles, applications, and industry relevance.
+Course Content: Overview of personal development, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 553
+Course Name: Human Resources Management
+Course Objective: To provide an in-depth understanding of human resources management, including its principles, applications, and industry relevance.
+Course Content: Overview of human resources management, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 702
+Course Name: Contemporary Video Applications
+Course Objective: To provide an in-depth understanding of contemporary video applications, including its principles, applications, and industry relevance.
+Course Content: Overview of contemporary video applications, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 703
+Course Name: Media and Communication Technologies
+Course Objective: To provide an in-depth understanding of media and communication technologies, including its principles, applications, and industry relevance.
+Course Content: Overview of media and communication technologies, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 704
+Course Name: Script Writing
+Course Objective: To provide an in-depth understanding of script writing, including its principles, applications, and industry relevance.
+Course Content: Overview of script writing, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 705
+Course Name: Video Production
+Course Objective: To provide an in-depth understanding of video production, including its principles, applications, and industry relevance.
+Course Content: Overview of video production, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 558
+Course Name: International Commerce
+Course Objective: To provide an in-depth understanding of international commerce, including its principles, applications, and industry relevance.
+Course Content: Overview of international commerce, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 559
+Course Name: Health Management
+Course Objective: To provide an in-depth understanding of health management, including its principles, applications, and industry relevance.
+Course Content: Overview of health management, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 566
+Course Name: Applied Investment In The Stock Market
+Course Objective: To provide an in-depth understanding of applied investment in the stock market, including its principles, applications, and industry relevance.
+Course Content: Overview of applied investment in the stock market, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 035
+Course Name: Congress and Meeting Management
+Course Objective: To provide an in-depth understanding of congress and meeting management, including its principles, applications, and industry relevance.
+Course Content: Overview of congress and meeting management, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 109
+Course Name: European Union and Türkiye
+Course Objective: To provide an in-depth understanding of european union and türkiye, including its principles, applications, and industry relevance.
+Course Content: Overview of european union and türkiye, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 257
+Course Name: History Of Western Art
+Course Objective: To provide an in-depth understanding of history of western art, including its principles, applications, and industry relevance.
+Course Content: Overview of history of western art, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 181
+Course Name: Economic and Demographic Study Of Economics
+Course Objective: To provide an in-depth understanding of economic and demographic study of economics, including its principles, applications, and industry relevance.
+Course Content: Overview of economic and demographic study of economics, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 451
+Course Name: Preparation Of Parenthood
+Course Objective: To provide an in-depth understanding of preparation of parenthood, including its principles, applications, and industry relevance.
+Course Content: Overview of preparation of parenthood, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 178
+Course Name: Econometrics
+Course Objective: To provide an in-depth understanding of econometrics, including its principles, applications, and industry relevance.
+Course Content: Overview of econometrics, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 253
+Course Name: Photo Of History
+Course Objective: To provide an in-depth understanding of photo of history, including its principles, applications, and industry relevance.
+Course Content: Overview of photo of history, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 104
+Course Name: Economics
+Course Objective: To provide an in-depth understanding of economics, including its principles, applications, and industry relevance.
+Course Content: Overview of economics, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 255
+Course Name: Public Relations and Advertise
+Course Objective: To provide an in-depth understanding of public relations and advertise, including its principles, applications, and industry relevance.
+Course Content: Overview of public relations and advertise, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 256
+Course Name: Communication and Advertising
+Course Objective: To provide an in-depth understanding of communication and advertising, including its principles, applications, and industry relevance.
+Course Content: Overview of communication and advertising, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 102
+Course Name: Public Finance
+Course Objective: To provide an in-depth understanding of public finance, including its principles, applications, and industry relevance.
+Course Content: Overview of public finance, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 254
+Course Name: History Of Cinema
+Course Objective: To provide an in-depth understanding of history of cinema, including its principles, applications, and industry relevance.
+Course Content: Overview of history of cinema, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 110
+Course Name: Political History
+Course Objective: To provide an in-depth understanding of political history, including its principles, applications, and industry relevance.
+Course Content: Overview of political history, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 260
+Course Name: Handmade Turkish Art History
+Course Objective: To provide an in-depth understanding of handmade turkish art history, including its principles, applications, and industry relevance.
+Course Content: Overview of handmade turkish art history, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 180
+Course Name: Turkish Foreign Policy
+Course Objective: To provide an in-depth understanding of turkish foreign policy, including its principles, applications, and industry relevance.
+Course Content: Overview of turkish foreign policy, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 259
+Course Name: Turkish Textile Art History
+Course Objective: To provide an in-depth understanding of turkish textile art history, including its principles, applications, and industry relevance.
+Course Content: Overview of turkish textile art history, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 258
+Course Name: Turkish Paintings History
+Course Objective: To provide an in-depth understanding of turkish paintings history, including its principles, applications, and industry relevance.
+Course Content: Overview of turkish paintings history, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 179
+Course Name: Political and Administrative Structure Of Türkiye
+Course Objective: To provide an in-depth understanding of political and administrative structure of türkiye, including its principles, applications, and industry relevance.
+Course Content: Overview of political and administrative structure of türkiye, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 105
+Course Name: Current Issues In International
+Course Objective: To provide an in-depth understanding of current issues in international, including its principles, applications, and industry relevance.
+Course Content: Overview of current issues in international, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 107
+Course Name: International Relations
+Course Objective: To provide an in-depth understanding of international relations, including its principles, applications, and industry relevance.
+Course Content: Overview of international relations, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 106
+Course Name: International Organizations
+Course Objective: To provide an in-depth understanding of international organizations, including its principles, applications, and industry relevance.
+Course Content: Overview of international organizations, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 103
+Course Name: Tax Law and Turkish Tax System
+Course Objective: To provide an in-depth understanding of tax law and turkish tax system, including its principles, applications, and industry relevance.
+Course Content: Overview of tax law and turkish tax system, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 252
+Course Name: Of Industrial Design
+Course Objective: To provide an in-depth understanding of of industrial design, including its principles, applications, and industry relevance.
+Course Content: Overview of of industrial design, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 020
+Course Name: European Union Türkiye Relationship
+Course Objective: To provide an in-depth understanding of european union türkiye relationship, including its principles, applications, and industry relevance.
+Course Content: Overview of european union türkiye relationship, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 251
+Course Name: Ceramic Art In Anatolia
+Course Objective: To provide an in-depth understanding of ceramic art in anatolia, including its principles, applications, and industry relevance.
+Course Content: Overview of ceramic art in anatolia, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 261
+Course Name: Art and Critical Thinking
+Course Objective: To provide an in-depth understanding of art and critical thinking, including its principles, applications, and industry relevance.
+Course Content: Overview of art and critical thinking, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 169
+Course Name: Political History Of The Middle East
+Course Objective: To provide an in-depth understanding of political history of the middle east, including its principles, applications, and industry relevance.
+Course Content: Overview of political history of the middle east, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 452
+Course Name: Health Protection and Development
+Course Objective: To provide an in-depth understanding of health protection and development, including its principles, applications, and industry relevance.
+Course Content: Overview of health protection and development, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 301
+Course Name: Basic First Aid and Emergency Training
+Course Objective: To provide an in-depth understanding of basic first aid and emergency training, including its principles, applications, and industry relevance.
+Course Content: Overview of basic first aid and emergency training, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 759
+Course Name: Public Policy
+Course Objective: To provide an in-depth understanding of public policy, including its principles, applications, and industry relevance.
+Course Content: Overview of public policy, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 760
+Course Name: Political Ideologies
+Course Objective: To provide an in-depth understanding of political ideologies, including its principles, applications, and industry relevance.
+Course Content: Overview of political ideologies, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 761
+Course Name: Theories Of Democracy
+Course Objective: To provide an in-depth understanding of theories of democracy, including its principles, applications, and industry relevance.
+Course Content: Overview of theories of democracy, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 762
+Course Name: Turkish Administrative History
+Course Objective: To provide an in-depth understanding of turkish administrative history, including its principles, applications, and industry relevance.
+Course Content: Overview of turkish administrative history, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: MTA 102
+Course Name: Composite Materials and Applications In Aviation
+Course Objective: To provide an in-depth understanding of composite materials and applications in aviation, including its principles, applications, and industry relevance.
+Course Content: Overview of composite materials and applications in aviation, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: MTA 103
+Course Name: Flight Mechanics and Applications
+Course Objective: To provide an in-depth understanding of flight mechanics and applications, including its principles, applications, and industry relevance.
+Course Content: Overview of flight mechanics and applications, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: MTA 006
+Course Name: Introduction To Battery Management System
+Course Objective: To provide an in-depth understanding of introduction to battery management system, including its principles, applications, and industry relevance.
+Course Content: Overview of introduction to battery management system, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 028
+Course Name: Traffic Safety
+Course Objective: To provide an in-depth understanding of traffic safety, including its principles, applications, and industry relevance.
+Course Content: Overview of traffic safety, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 002
+Course Name: Archaeology and Geosciences
+Course Objective: To provide an in-depth understanding of archaeology and geosciences, including its principles, applications, and industry relevance.
+Course Content: Overview of archaeology and geosciences, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 659
+Course Name: Polyphonic Coro
+Course Objective: To provide an in-depth understanding of polyphonic coro, including its principles, applications, and industry relevance.
+Course Content: Overview of polyphonic coro, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 004
+Course Name: Living In Earthquakes
+Course Objective: To provide an in-depth understanding of living in earthquakes, including its principles, applications, and industry relevance.
+Course Content: Overview of living in earthquakes, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 154
+Course Name: Politics Of Religious Education
+Course Objective: To provide an in-depth understanding of politics of religious education, including its principles, applications, and industry relevance.
+Course Content: Overview of politics of religious education, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 205
+Course Name: Educational Movies
+Course Objective: To provide an in-depth understanding of educational movies, including its principles, applications, and industry relevance.
+Course Content: Overview of educational movies, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 161
+Course Name: Current Issues In Religious Education
+Course Objective: To provide an in-depth understanding of current issues in religious education, including its principles, applications, and industry relevance.
+Course Content: Overview of current issues in religious education, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 157
+Course Name: Contemporary Religious Issues
+Course Objective: To provide an in-depth understanding of contemporary religious issues, including its principles, applications, and industry relevance.
+Course Content: Overview of contemporary religious issues, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 159
+Course Name: Last Hadith Of The Prophet
+Course Objective: To provide an in-depth understanding of last hadith of the prophet, including its principles, applications, and industry relevance.
+Course Content: Overview of last hadith of the prophet, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 167
+Course Name: Early Dissensions and Politic Sects Of Islam
+Course Objective: To provide an in-depth understanding of early dissensions and politic sects of islam, including its principles, applications, and industry relevance.
+Course Content: Overview of early dissensions and politic sects of islam, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 177
+Course Name: Islamic Thought
+Course Objective: To provide an in-depth understanding of islamic thought, including its principles, applications, and industry relevance.
+Course Content: Overview of islamic thought, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 166
+Course Name: Rising Of Philosophic Thouoght In Islam
+Course Objective: To provide an in-depth understanding of rising of philosophic thouoght in islam, including its principles, applications, and industry relevance.
+Course Content: Overview of rising of philosophic thouoght in islam, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 165
+Course Name: The Basic Principles Of The Islam
+Course Objective: To provide an in-depth understanding of the basic principles of the islam, including its principles, applications, and industry relevance.
+Course Content: Overview of the basic principles of the islam, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 651
+Course Name: Turkish Folk Music
+Course Objective: To provide an in-depth understanding of turkish folk music, including its principles, applications, and industry relevance.
+Course Content: Overview of turkish folk music, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 652
+Course Name: Turkish Classical Music
+Course Objective: To provide an in-depth understanding of turkish classical music, including its principles, applications, and industry relevance.
+Course Content: Overview of turkish classical music, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 158
+Course Name: Culture Of Quran
+Course Objective: To provide an in-depth understanding of culture of quran, including its principles, applications, and industry relevance.
+Course Content: Overview of culture of quran, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 151
+Course Name: Hadith Of Our Culture
+Course Objective: To provide an in-depth understanding of hadith of our culture, including its principles, applications, and industry relevance.
+Course Content: Overview of hadith of our culture, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 160
+Course Name: Mystical Thoughts
+Course Objective: To provide an in-depth understanding of mystical thoughts, including its principles, applications, and industry relevance.
+Course Content: Overview of mystical thoughts, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 163
+Course Name: Religion Problems In Modern Period
+Course Objective: To provide an in-depth understanding of religion problems in modern period, including its principles, applications, and industry relevance.
+Course Content: Overview of religion problems in modern period, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 168
+Course Name: Religion and Family In Modern Societies
+Course Objective: To provide an in-depth understanding of religion and family in modern societies, including its principles, applications, and industry relevance.
+Course Content: Overview of religion and family in modern societies, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 654
+Course Name: History Of Music
+Course Objective: To provide an in-depth understanding of history of music, including its principles, applications, and industry relevance.
+Course Content: Overview of history of music, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 653
+Course Name: Nota Knowledge
+Course Objective: To provide an in-depth understanding of nota knowledge, including its principles, applications, and industry relevance.
+Course Content: Overview of nota knowledge, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 510
+Course Name: Information Management Systems In Schools
+Course Objective: To provide an in-depth understanding of information management systems in schools, including its principles, applications, and industry relevance.
+Course Content: Overview of information management systems in schools, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 005
+Course Name: Healthy Eating
+Course Objective: To provide an in-depth understanding of healthy eating, including its principles, applications, and industry relevance.
+Course Content: Overview of healthy eating, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 206
+Course Name: Historical Films
+Course Objective: To provide an in-depth understanding of historical films, including its principles, applications, and industry relevance.
+Course Content: Overview of historical films, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 658
+Course Name: The Turkish Folk Dances (Bar)
+Course Objective: To provide an in-depth understanding of the turkish folk dances (bar), including its principles, applications, and industry relevance.
+Course Content: Overview of the turkish folk dances (bar), practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 657
+Course Name: The Turkish Folk Dances (Halay)
+Course Objective: To provide an in-depth understanding of the turkish folk dances (halay), including its principles, applications, and industry relevance.
+Course Content: Overview of the turkish folk dances (halay), practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 656
+Course Name: The Turkish Folk Dances (Horon)
+Course Objective: To provide an in-depth understanding of the turkish folk dances (horon), including its principles, applications, and industry relevance.
+Course Content: Overview of the turkish folk dances (horon), practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 708
+Course Name: Corporate Communications
+Course Objective: To provide an in-depth understanding of corporate communications, including its principles, applications, and industry relevance.
+Course Content: Overview of corporate communications, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 567
+Course Name: Macro Programming In Excel
+Course Objective: To provide an in-depth understanding of macro programming in excel, including its principles, applications, and industry relevance.
+Course Content: Overview of macro programming in excel, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 568
+Course Name: Information Literacy
+Course Objective: To provide an in-depth understanding of information literacy, including its principles, applications, and industry relevance.
+Course Content: Overview of information literacy, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 888
+Course Name: Work In Artistic Representations
+Course Objective: To provide an in-depth understanding of work in artistic representations, including its principles, applications, and industry relevance.
+Course Content: Overview of work in artistic representations, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 573
+Course Name: Case Events In Entrepreneurship
+Course Objective: To provide an in-depth understanding of case events in entrepreneurship, including its principles, applications, and industry relevance.
+Course Content: Overview of case events in entrepreneurship, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 574
+Course Name: Entrepreneurship Case Studies
+Course Objective: To provide an in-depth understanding of entrepreneurship case studies, including its principles, applications, and industry relevance.
+Course Content: Overview of entrepreneurship case studies, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 571
+Course Name: Entrepreneurship Finance
+Course Objective: To provide an in-depth understanding of entrepreneurship finance, including its principles, applications, and industry relevance.
+Course Content: Overview of entrepreneurship finance, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 572
+Course Name: Foreign Trade Entrepreneurship
+Course Objective: To provide an in-depth understanding of foreign trade entrepreneurship, including its principles, applications, and industry relevance.
+Course Content: Overview of foreign trade entrepreneurship, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 111
+Course Name: Entrepreneurship and Innovation
+Course Objective: To provide an in-depth understanding of entrepreneurship and innovation, including its principles, applications, and industry relevance.
+Course Content: Overview of entrepreneurship and innovation, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 763
+Course Name: Current Political Issues
+Course Objective: To provide an in-depth understanding of current political issues, including its principles, applications, and industry relevance.
+Course Content: Overview of current political issues, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 764
+Course Name: Urbanization Policy
+Course Objective: To provide an in-depth understanding of urbanization policy, including its principles, applications, and industry relevance.
+Course Content: Overview of urbanization policy, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 450
+Course Name: Infective Diseases
+Course Objective: To provide an in-depth understanding of infective diseases, including its principles, applications, and industry relevance.
+Course Content: Overview of infective diseases, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 262
+Course Name: Smart Buildings
+Course Objective: To provide an in-depth understanding of smart buildings, including its principles, applications, and industry relevance.
+Course Content: Overview of smart buildings, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 453
+Course Name: Healthy Sexual Development and Privacy Education
+Course Objective: To provide an in-depth understanding of healthy sexual development and privacy education, including its principles, applications, and industry relevance.
+Course Content: Overview of healthy sexual development and privacy education, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 1221
+Course Name: Health Literacy
+Course Objective: To provide an in-depth understanding of health literacy, including its principles, applications, and industry relevance.
+Course Content: Overview of health literacy, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 599
+Course Name: Gender
+Course Objective: To provide an in-depth understanding of gender, including its principles, applications, and industry relevance.
+Course Content: Overview of gender, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 850
+Course Name: Project Management and Entrepreneurship
+Course Objective: To provide an in-depth understanding of project management and entrepreneurship, including its principles, applications, and industry relevance.
+Course Content: Overview of project management and entrepreneurship, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 058
+Course Name: Turkish Cultural History
+Course Objective: To provide an in-depth understanding of turkish cultural history, including its principles, applications, and industry relevance.
+Course Content: Overview of turkish cultural history, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 062
+Course Name: History Of Turkish Cuisine
+Course Objective: To provide an in-depth understanding of history of turkish cuisine, including its principles, applications, and industry relevance.
+Course Content: Overview of history of turkish cuisine, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 074
+Course Name: Turkish Art
+Course Objective: To provide an in-depth understanding of turkish art, including its principles, applications, and industry relevance.
+Course Content: Overview of turkish art, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 070
+Course Name: The Role Of International Communication Of Translation
+Course Objective: To provide an in-depth understanding of the role of international communication of translation, including its principles, applications, and industry relevance.
+Course Content: Overview of the role of international communication of translation, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 078
+Course Name: New Social Movements and Government
+Course Objective: To provide an in-depth understanding of new social movements and government, including its principles, applications, and industry relevance.
+Course Content: Overview of new social movements and government, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 053
+Course Name: Problems In The Family
+Course Objective: To provide an in-depth understanding of problems in the family, including its principles, applications, and industry relevance.
+Course Content: Overview of problems in the family, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 079
+Course Name: Landscape Plants
+Course Objective: To provide an in-depth understanding of landscape plants, including its principles, applications, and industry relevance.
+Course Content: Overview of landscape plants, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 080
+Course Name: History Of Islamic Expansion
+Course Objective: To provide an in-depth understanding of history of islamic expansion, including its principles, applications, and industry relevance.
+Course Content: Overview of history of islamic expansion, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 082
+Course Name: Formation Of Modern Middle East
+Course Objective: To provide an in-depth understanding of formation of modern middle east, including its principles, applications, and industry relevance.
+Course Content: Overview of formation of modern middle east, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 083
+Course Name: Social Responsibility
+Course Objective: To provide an in-depth understanding of social responsibility, including its principles, applications, and industry relevance.
+Course Content: Overview of social responsibility, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 756
+Course Name: Human Rights
+Course Objective: To provide an in-depth understanding of human rights, including its principles, applications, and industry relevance.
+Course Content: Overview of human rights, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 757
+Course Name: Cultural Assets and Historical Monuments In Türkiye
+Course Objective: To provide an in-depth understanding of cultural assets and historical monuments in türkiye, including its principles, applications, and industry relevance.
+Course Content: Overview of cultural assets and historical monuments in türkiye, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 084
+Course Name: Andalusian Civilization
+Course Objective: To provide an in-depth understanding of andalusian civilization, including its principles, applications, and industry relevance.
+Course Content: Overview of andalusian civilization, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 085
+Course Name: National Consciousness and Imagination Of Turkish Islamic Civilization
+Course Objective: To provide an in-depth understanding of national consciousness and imagination of turkish islamic civilization, including its principles, applications, and industry relevance.
+Course Content: Overview of national consciousness and imagination of turkish islamic civilization, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 086
+Course Name: Diet and Health
+Course Objective: To provide an in-depth understanding of diet and health, including its principles, applications, and industry relevance.
+Course Content: Overview of diet and health, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 087
+Course Name: Chemical, Biological, Radiological and Nuclear Threats and Protection
+Course Objective: To provide an in-depth understanding of chemical, biological, radiological and nuclear threats and protection, including its principles, applications, and industry relevance.
+Course Content: Overview of chemical, biological, radiological and nuclear threats and protection, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 439
+Course Name: Marine Biology
+Course Objective: To provide an in-depth understanding of marine biology, including its principles, applications, and industry relevance.
+Course Content: Overview of marine biology, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 088
+Course Name: Sancak Tarihi
+Course Objective: To provide an in-depth understanding of sancak tarihi, including its principles, applications, and industry relevance.
+Course Content: Overview of sancak tarihi, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 089
+Course Name: Environmental Health
+Course Objective: To provide an in-depth understanding of environmental health, including its principles, applications, and industry relevance.
+Course Content: Overview of environmental health, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 090
+Course Name: Nutrigenomics
+Course Objective: To provide an in-depth understanding of nutrigenomics, including its principles, applications, and industry relevance.
+Course Content: Overview of nutrigenomics, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 501
+Course Name: Youth and Volunteering
+Course Objective: To provide an in-depth understanding of youth and volunteering, including its principles, applications, and industry relevance.
+Course Content: Overview of youth and volunteering, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 504
+Course Name: Turkish Culture and Civilization
+Course Objective: To provide an in-depth understanding of turkish culture and civilization, including its principles, applications, and industry relevance.
+Course Content: Overview of turkish culture and civilization, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 505
+Course Name: Mathematics For Social Sciences I
+Course Objective: To provide an in-depth understanding of mathematics for social sciences i, including its principles, applications, and industry relevance.
+Course Content: Overview of mathematics for social sciences i, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 506
+Course Name: Mathematics For Social Sciences II
+Course Objective: To provide an in-depth understanding of mathematics for social sciences ii, including its principles, applications, and industry relevance.
+Course Content: Overview of mathematics for social sciences ii, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 507
+Course Name: For Science
+Course Objective: To provide an in-depth understanding of for science, including its principles, applications, and industry relevance.
+Course Content: Overview of for science, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 503
+Course Name: Project Management and Entrepreneurship
+Course Objective: To provide an in-depth understanding of project management and entrepreneurship, including its principles, applications, and industry relevance.
+Course Content: Overview of project management and entrepreneurship, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 176
+Course Name: Addiction Prevention and Healthy Life
+Course Objective: To provide an in-depth understanding of addiction prevention and healthy life, including its principles, applications, and industry relevance.
+Course Content: Overview of addiction prevention and healthy life, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 655
+Course Name: The Turkish Folk Dances (Zeybek)
+Course Objective: To provide an in-depth understanding of the turkish folk dances (zeybek), including its principles, applications, and industry relevance.
+Course Content: Overview of the turkish folk dances (zeybek), practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 156
+Course Name: Living World Religions
+Course Objective: To provide an in-depth understanding of living world religions, including its principles, applications, and industry relevance.
+Course Content: Overview of living world religions, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 009
+Course Name: Renewable Energy Sources
+Course Objective: To provide an in-depth understanding of renewable energy sources, including its principles, applications, and industry relevance.
+Course Content: Overview of renewable energy sources, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 013
+Course Name: Environment and Energy
+Course Objective: To provide an in-depth understanding of environment and energy, including its principles, applications, and industry relevance.
+Course Content: Overview of environment and energy, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 015
+Course Name: Industrial Relations
+Course Objective: To provide an in-depth understanding of industrial relations, including its principles, applications, and industry relevance.
+Course Content: Overview of industrial relations, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 016
+Course Name: Occupational Diseases
+Course Objective: To provide an in-depth understanding of occupational diseases, including its principles, applications, and industry relevance.
+Course Content: Overview of occupational diseases, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 017
+Course Name: Engineering Ethics
+Course Objective: To provide an in-depth understanding of engineering ethics, including its principles, applications, and industry relevance.
+Course Content: Overview of engineering ethics, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 019
+Course Name: Total Quality Management
+Course Objective: To provide an in-depth understanding of total quality management, including its principles, applications, and industry relevance.
+Course Content: Overview of total quality management, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 153
+Course Name: Introduction To Arabic
+Course Objective: To provide an in-depth understanding of introduction to arabic, including its principles, applications, and industry relevance.
+Course Content: Overview of introduction to arabic, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 023
+Course Name: Occupational Health and Security
+Course Objective: To provide an in-depth understanding of occupational health and security, including its principles, applications, and industry relevance.
+Course Content: Overview of occupational health and security, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 661
+Course Name: Introduction Of Turkish Folk Music
+Course Objective: To provide an in-depth understanding of introduction of turkish folk music, including its principles, applications, and industry relevance.
+Course Content: Overview of introduction of turkish folk music, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 662
+Course Name: Sufi Music
+Course Objective: To provide an in-depth understanding of sufi music, including its principles, applications, and industry relevance.
+Course Content: Overview of sufi music, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 207
+Course Name: Educational Game Design
+Course Objective: To provide an in-depth understanding of educational game design, including its principles, applications, and industry relevance.
+Course Content: Overview of educational game design, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 208
+Course Name: Technology Integration In Education
+Course Objective: To provide an in-depth understanding of technology integration in education, including its principles, applications, and industry relevance.
+Course Content: Overview of technology integration in education, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 209
+Course Name: Informatics Security and Ethics
+Course Objective: To provide an in-depth understanding of informatics security and ethics, including its principles, applications, and industry relevance.
+Course Content: Overview of informatics security and ethics, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 210
+Course Name: Social Media and Learning
+Course Objective: To provide an in-depth understanding of social media and learning, including its principles, applications, and industry relevance.
+Course Content: Overview of social media and learning, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 026
+Course Name: Disasters and Disaster Management
+Course Objective: To provide an in-depth understanding of disasters and disaster management, including its principles, applications, and industry relevance.
+Course Content: Overview of disasters and disaster management, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 027
+Course Name: Fire Security
+Course Objective: To provide an in-depth understanding of fire security, including its principles, applications, and industry relevance.
+Course Content: Overview of fire security, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 011
+Course Name: Energy Efficiency Management
+Course Objective: To provide an in-depth understanding of energy efficiency management, including its principles, applications, and industry relevance.
+Course Content: Overview of energy efficiency management, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 170
+Course Name: Fundamental Issues Of The Islamic Theology
+Course Objective: To provide an in-depth understanding of fundamental issues of the islamic theology, including its principles, applications, and industry relevance.
+Course Content: Overview of fundamental issues of the islamic theology, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 029
+Course Name: Sectoral Analysis
+Course Objective: To provide an in-depth understanding of sectoral analysis, including its principles, applications, and industry relevance.
+Course Content: Overview of sectoral analysis, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 030
+Course Name: Technology Philosphy
+Course Objective: To provide an in-depth understanding of technology philosphy, including its principles, applications, and industry relevance.
+Course Content: Overview of technology philosphy, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 758
+Course Name: Mehter and Practising Of Janissary Band Member
+Course Objective: To provide an in-depth understanding of mehter and practising of janissary band member, including its principles, applications, and industry relevance.
+Course Content: Overview of mehter and practising of janissary band member, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 031
+Course Name: Food Safety
+Course Objective: To provide an in-depth understanding of food safety, including its principles, applications, and industry relevance.
+Course Content: Overview of food safety, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 752
+Course Name: Autantick Learning Practice
+Course Objective: To provide an in-depth understanding of autantick learning practice, including its principles, applications, and industry relevance.
+Course Content: Overview of autantick learning practice, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 753
+Course Name: Media Literacy
+Course Objective: To provide an in-depth understanding of media literacy, including its principles, applications, and industry relevance.
+Course Content: Overview of media literacy, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 754
+Course Name: Biological Diversity Of Türkiye
+Course Objective: To provide an in-depth understanding of biological diversity of türkiye, including its principles, applications, and industry relevance.
+Course Content: Overview of biological diversity of türkiye, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 032
+Course Name: Lean Manufacturing and Japanese Business Culture
+Course Objective: To provide an in-depth understanding of lean manufacturing and japanese business culture, including its principles, applications, and industry relevance.
+Course Content: Overview of lean manufacturing and japanese business culture, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 171
+Course Name: The Contemporary Interpretation Of Quran Parables
+Course Objective: To provide an in-depth understanding of the contemporary interpretation of quran parables, including its principles, applications, and industry relevance.
+Course Content: Overview of the contemporary interpretation of quran parables, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 755
+Course Name: Reading and Brain
+Course Objective: To provide an in-depth understanding of reading and brain, including its principles, applications, and industry relevance.
+Course Content: Overview of reading and brain, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 173
+Course Name: Media and Religion
+Course Objective: To provide an in-depth understanding of media and religion, including its principles, applications, and industry relevance.
+Course Content: Overview of media and religion, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 211
+Course Name: Rules Of Correspondence and Protocol
+Course Objective: To provide an in-depth understanding of rules of correspondence and protocol, including its principles, applications, and industry relevance.
+Course Content: Overview of rules of correspondence and protocol, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 152
+Course Name: Mevlana Thought
+Course Objective: To provide an in-depth understanding of mevlana thought, including its principles, applications, and industry relevance.
+Course Content: Overview of mevlana thought, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 214
+Course Name: Contemporary Turkish Literature
+Course Objective: To provide an in-depth understanding of contemporary turkish literature, including its principles, applications, and industry relevance.
+Course Content: Overview of contemporary turkish literature, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 213
+Course Name: Life Quality
+Course Objective: To provide an in-depth understanding of life quality, including its principles, applications, and industry relevance.
+Course Content: Overview of life quality, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 212
+Course Name: Alternative Measure
+Course Objective: To provide an in-depth understanding of alternative measure, including its principles, applications, and industry relevance.
+Course Content: Overview of alternative measure, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 174
+Course Name: Psychology and Religion
+Course Objective: To provide an in-depth understanding of psychology and religion, including its principles, applications, and industry relevance.
+Course Content: Overview of psychology and religion, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 036
+Course Name: The Fourth Industrial Revolution: Industry 4.0
+Course Objective: To provide an in-depth understanding of the fourth industrial revolution: industry 4.0, including its principles, applications, and industry relevance.
+Course Content: Overview of the fourth industrial revolution: industry 4.0, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 081
+Course Name: Academic Turkish
+Course Objective: To provide an in-depth understanding of academic turkish, including its principles, applications, and industry relevance.
+Course Content: Overview of academic turkish, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 1220
+Course Name: Satellite Technologies
+Course Objective: To provide an in-depth understanding of satellite technologies, including its principles, applications, and industry relevance.
+Course Content: Overview of satellite technologies, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 1222
+Course Name: Turkish Folk Dances (Welcome)
+Course Objective: To provide an in-depth understanding of turkish folk dances (welcome), including its principles, applications, and industry relevance.
+Course Content: Overview of turkish folk dances (welcome), practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 010
+Course Name: Analog and Digital Communication
+Course Objective: To provide an in-depth understanding of analog and digital communication, including its principles, applications, and industry relevance.
+Course Content: Overview of analog and digital communication, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 037
+Course Name: Environmental Ethics and Awareness
+Course Objective: To provide an in-depth understanding of environmental ethics and awareness, including its principles, applications, and industry relevance.
+Course Content: Overview of environmental ethics and awareness, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 215
+Course Name: Individualization and Adaptation Of Teaching
+Course Objective: To provide an in-depth understanding of individualization and adaptation of teaching, including its principles, applications, and industry relevance.
+Course Content: Overview of individualization and adaptation of teaching, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 175
+Course Name: Islamic History and Culture
+Course Objective: To provide an in-depth understanding of islamic history and culture, including its principles, applications, and industry relevance.
+Course Content: Overview of islamic history and culture, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 200
+Course Name: Digital Literacy
+Course Objective: To provide an in-depth understanding of digital literacy, including its principles, applications, and industry relevance.
+Course Content: Overview of digital literacy, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 172
+Course Name: Sociological Analysis Of Religious Groups
+Course Objective: To provide an in-depth understanding of sociological analysis of religious groups, including its principles, applications, and industry relevance.
+Course Content: Overview of sociological analysis of religious groups, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 219
+Course Name: Technology Addiction
+Course Objective: To provide an in-depth understanding of technology addiction, including its principles, applications, and industry relevance.
+Course Content: Overview of technology addiction, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 038
+Course Name: Basic Of E-Commerce
+Course Objective: To provide an in-depth understanding of basic of e-commerce, including its principles, applications, and industry relevance.
+Course Content: Overview of basic of e-commerce, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 039
+Course Name: Management With Strategic Planning and Processes
+Course Objective: To provide an in-depth understanding of management with strategic planning and processes, including its principles, applications, and industry relevance.
+Course Content: Overview of management with strategic planning and processes, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 577
+Course Name: Oil and Natural Gas Industry
+Course Objective: To provide an in-depth understanding of oil and natural gas industry, including its principles, applications, and industry relevance.
+Course Content: Overview of oil and natural gas industry, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 585
+Course Name: Food Sience and Technology
+Course Objective: To provide an in-depth understanding of food sience and technology, including its principles, applications, and industry relevance.
+Course Content: Overview of food sience and technology, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 598
+Course Name: Occupational Health and Safety
+Course Objective: To provide an in-depth understanding of occupational health and safety, including its principles, applications, and industry relevance.
+Course Content: Overview of occupational health and safety, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 802
+Course Name: Yeni Nesil Kablosuz Haberleşme Teknolojileri (Sektör Dersi)
+Course Objective: To provide an in-depth understanding of yeni nesil kablosuz haberleşme teknolojileri (sektör dersi), including its principles, applications, and industry relevance.
+Course Content: Overview of yeni nesil kablosuz haberleşme teknolojileri (sektör dersi), practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 804
+Course Name: Nanokarbon Malzemeler ve Teknolojileri (Sektör Dersi)
+Course Objective: To provide an in-depth understanding of nanokarbon malzemeler ve teknolojileri (sektör dersi), including its principles, applications, and industry relevance.
+Course Content: Overview of nanokarbon malzemeler ve teknolojileri (sektör dersi), practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 805
+Course Name: Lityum-Iyon Pil Hücresi Üretim Prosesleri (Sektör Dersi)
+Course Objective: To provide an in-depth understanding of lityum-iyon pil hücresi üretim prosesleri (sektör dersi), including its principles, applications, and industry relevance.
+Course Content: Overview of lityum-iyon pil hücresi üretim prosesleri (sektör dersi), practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 555
+Course Name: Sustainability
+Course Objective: To provide an in-depth understanding of sustainability, including its principles, applications, and industry relevance.
+Course Content: Overview of sustainability, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 012
+Course Name: Project Management and Entrepreneurship
+Course Objective: To provide an in-depth understanding of project management and entrepreneurship, including its principles, applications, and industry relevance.
+Course Content: Overview of project management and entrepreneurship, practical applications, tools, methodologies, case studies, and recent developments in the field.
+
+Course Code: SAU 040
+Course Name: Innovation Management
+Course Objective: To provide an in-depth understanding of innovation management, including its principles, applications, and industry relevance.
+Course Content: Overview of innovation management, practical applications, tools, methodologies, case studies, and recent developments in the field.
